@@ -1,1 +1,1 @@
-# Railway-track-fault-datection-using-deep-learning
+# Railway-track-fault-detection-using-deep-learning
